@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 <p align='center'>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/ha2js) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hajongse@gmail.com) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/j0ng._.118) 
   <a href="https://github.com/heung27/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=ha2js&hide=issues&show_icons=true&theme=graywhite"/>
   </a>
@@ -23,4 +20,15 @@
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vue-dot-js&logoColor=%234FC08D"/>
   <img src="https://img.shields.io/badge/MySQL-1498F0?style=flat-square&logo=MySQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/css-1572B6?flat-square&logo=css3&logoColor=white"/>
+</p>
+
+<h3 align="center"> Me </h3>
+<p align="center">
+  <a href="https://www.instagram.com/j0ng._.118/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j0ng._.118/"/></a>&nbsp
+  <a href="mailto:hajongse@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hajongse@gmail.com"/></a>
+</p>
+<br>
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fha2js&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false"/></a>
 </p>
