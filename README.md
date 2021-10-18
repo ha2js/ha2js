@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 <p align='center'>
-  <a href="https://github.com/heung27/github-readme-stats">
+  <a href="https://github.com/ha2js/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=ha2js&hide=issues&show_icons=true&theme=graywhite"/>
   </a>
 </p>
 
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha2js&layout=compact&exclude_repo=EZFORM"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha2js&layout=compact"/>
   </a>
 </p>
 
