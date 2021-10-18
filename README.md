@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align='center'>
-  <a href="https://github.com/ha2js/github-readme-stats">
+  <a href="https://github.com/ha2js">
     <img src="https://github-readme-stats.vercel.app/api?username=ha2js&hide=issues&show_icons=true&theme=graywhite"/>
   </a>
 </p>
