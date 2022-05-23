@@ -2,13 +2,13 @@
 
 <p align='center'>
   <a href="https://github.com/ha2js">
-    <img src="https://github-readme-stats.vercel.app/api?username=ha2js&hide=issues&show_icons=true&theme=graywhite"/>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ha2js&show_icons=true&theme=flag-india&count_private=true)
   </a>
 </p>
 
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha2js&layout=compact"/>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha2js&layout=compact)](https://github.com/ha2js/github-readme-stats)
   </a>
 </p>
 
