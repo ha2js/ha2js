@@ -2,15 +2,19 @@
 
 <p align='center'>
   <a href="https://github.com/ha2js">
-    <img src="https://github-readme-stats.vercel.app/api?username=ha2js&hide=issues&show_icons=true&theme=graywhite&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ha2js&hide=issues&show_icons=true&theme=flag-india&count_private=true"/>
   </a>
 </p>
 
+<br>
+
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha2js&layout=flag-india&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha2js&layout=compact&count_private=true"/>
   </a>
 </p>
+
+<br>
 
 <h3 align="center"> 🔎 Tech Stack </h3>
  
@@ -29,6 +33,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-1572B6?flat-square&logo=css3&logoColor=white"/>
 </p>
+
+<br>
 
 <h3 align="center">💁🏻‍♂ Me </h3>
 <p align="center">
